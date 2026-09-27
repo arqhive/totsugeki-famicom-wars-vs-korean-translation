@@ -1,0 +1,910 @@
+{
+ "file": "creditsJapanese.str",
+ "scene": "credits",
+ "entries": [
+  {
+   "index": 9,
+   "ko": "KUJU LONDON 제작진:"
+  },
+  {
+   "index": 11,
+   "ko": "총괄 프로듀서"
+  },
+  {
+   "index": 12,
+   "ko": "　　　Ian Johnson"
+  },
+  {
+   "index": 14,
+   "ko": "프로듀서"
+  },
+  {
+   "index": 15,
+   "ko": "　　　Jonathan Eardley"
+  },
+  {
+   "index": 16,
+   "ko": "　　　(Antonia Cullum)"
+  },
+  {
+   "index": 17,
+   "ko": "　　　(Brynley Gibson)"
+  },
+  {
+   "index": 19,
+   "ko": "크리에이티브 디렉터"
+  },
+  {
+   "index": 20,
+   "ko": "　　　Tancred Dyke-Wells"
+  },
+  {
+   "index": 22,
+   "ko": "기술 디렉터"
+  },
+  {
+   "index": 23,
+   "ko": "　　　Jon Robinson"
+  },
+  {
+   "index": 25,
+   "ko": "프로그래밍 총괄"
+  },
+  {
+   "index": 26,
+   "ko": "　　　Richard Smith"
+  },
+  {
+   "index": 28,
+   "ko": "프로그래밍"
+  },
+  {
+   "index": 29,
+   "ko": "　　　AIick Goldenberg"
+  },
+  {
+   "index": 30,
+   "ko": "　　　Andrew Davies"
+  },
+  {
+   "index": 31,
+   "ko": "　　　Andy Heap"
+  },
+  {
+   "index": 32,
+   "ko": "　　　Ed Key"
+  },
+  {
+   "index": 33,
+   "ko": "　　　Ian Crowther"
+  },
+  {
+   "index": 34,
+   "ko": "　　　Kieron Wheeler"
+  },
+  {
+   "index": 35,
+   "ko": "　　　OIiver Dibben"
+  },
+  {
+   "index": 36,
+   "ko": "　　　Roger Wernersson"
+  },
+  {
+   "index": 38,
+   "ko": "추가 프로그래밍"
+  },
+  {
+   "index": 39,
+   "ko": "　　　Dave Shillito"
+  },
+  {
+   "index": 40,
+   "ko": "　　　Dominic Jackson"
+  },
+  {
+   "index": 41,
+   "ko": "　　　Luke Mamacos"
+  },
+  {
+   "index": 42,
+   "ko": "　　　NeiI Millstone"
+  },
+  {
+   "index": 44,
+   "ko": "기반 기술 프로그래밍 총괄"
+  },
+  {
+   "index": 45,
+   "ko": "　　　Dominic Penfold"
+  },
+  {
+   "index": 47,
+   "ko": "핵심 기술팀"
+  },
+  {
+   "index": 48,
+   "ko": "　　　MichaeI Jacobsen"
+  },
+  {
+   "index": 49,
+   "ko": "　　　Phillip Jordan"
+  },
+  {
+   "index": 51,
+   "ko": "추가 기술팀"
+  },
+  {
+   "index": 52,
+   "ko": "　　　Don Boogert"
+  },
+  {
+   "index": 53,
+   "ko": "　　　Les Long"
+  },
+  {
+   "index": 54,
+   "ko": "　　　Tom Keresztes"
+  },
+  {
+   "index": 56,
+   "ko": "게임 디자인 총괄"
+  },
+  {
+   "index": 57,
+   "ko": "　　　Andy Trowers"
+  },
+  {
+   "index": 59,
+   "ko": "레벨 디자인 / 시나리오 총괄"
+  },
+  {
+   "index": 60,
+   "ko": "　　　PauI Mackman"
+  },
+  {
+   "index": 62,
+   "ko": "기술 디자인 조정"
+  },
+  {
+   "index": 63,
+   "ko": "　　　Toby Woolley"
+  },
+  {
+   "index": 65,
+   "ko": "게임 디자인"
+  },
+  {
+   "index": 66,
+   "ko": "　　　EIIiott Lock"
+  },
+  {
+   "index": 67,
+   "ko": "　　　James McDonald"
+  },
+  {
+   "index": 68,
+   "ko": "　　　Jamie Whitworth"
+  },
+  {
+   "index": 69,
+   "ko": "　　　Louis Ho"
+  },
+  {
+   "index": 70,
+   "ko": "　　　Ted Timmins"
+  },
+  {
+   "index": 72,
+   "ko": "게임 디자인 / 추가 음향"
+  },
+  {
+   "index": 73,
+   "ko": "　　　Greg Moniz"
+  },
+  {
+   "index": 75,
+   "ko": "게임 디자인 / 추가 시나리오"
+  },
+  {
+   "index": 76,
+   "ko": "　　　Jonathan Burroughs"
+  },
+  {
+   "index": 78,
+   "ko": "추가 게임 디자인"
+  },
+  {
+   "index": 79,
+   "ko": "　　　Bob Jones"
+  },
+  {
+   "index": 80,
+   "ko": "　　　Gavin Skinner"
+  },
+  {
+   "index": 81,
+   "ko": "　　　Steve Stanyon"
+  },
+  {
+   "index": 83,
+   "ko": "미술 총괄"
+  },
+  {
+   "index": 84,
+   "ko": "　　　Adonis Stevenson"
+  },
+  {
+   "index": 85,
+   "ko": "　　　(Cumron Ashtiani)"
+  },
+  {
+   "index": 87,
+   "ko": "배경 미술 총괄"
+  },
+  {
+   "index": 88,
+   "ko": "　　　Mark SIater"
+  },
+  {
+   "index": 90,
+   "ko": "미술"
+  },
+  {
+   "index": 91,
+   "ko": "　　　Ben Stevens"
+  },
+  {
+   "index": 92,
+   "ko": "　　　Caroline Green"
+  },
+  {
+   "index": 93,
+   "ko": "　　　Dave Swan"
+  },
+  {
+   "index": 94,
+   "ko": "　　　Imkan Hayati"
+  },
+  {
+   "index": 95,
+   "ko": "　　　Jon Goodman"
+  },
+  {
+   "index": 96,
+   "ko": "　　　Julia Wren"
+  },
+  {
+   "index": 97,
+   "ko": "　　　Kasey Wilson"
+  },
+  {
+   "index": 98,
+   "ko": "　　　Matt Wilde"
+  },
+  {
+   "index": 100,
+   "ko": "추가 미술"
+  },
+  {
+   "index": 101,
+   "ko": "　　　AdeeI IqbaI"
+  },
+  {
+   "index": 102,
+   "ko": "　　　Kees Gajentaan"
+  },
+  {
+   "index": 103,
+   "ko": "　　　Mark Harrison-Ball"
+  },
+  {
+   "index": 104,
+   "ko": "　　　Niklas Jansson"
+  },
+  {
+   "index": 105,
+   "ko": "　　　Roger Coe"
+  },
+  {
+   "index": 107,
+   "ko": "영상 연출 총괄"
+  },
+  {
+   "index": 108,
+   "ko": "　　　Rhys Griffin"
+  },
+  {
+   "index": 110,
+   "ko": "선임 조명, 특수 효과 및 합성"
+  },
+  {
+   "index": 111,
+   "ko": "　　　PauI Herbert"
+  },
+  {
+   "index": 113,
+   "ko": "합성 및 특수 효과"
+  },
+  {
+   "index": 114,
+   "ko": "　　　Hasraf Dulull"
+  },
+  {
+   "index": 116,
+   "ko": "애니메이션 / 캐릭터 미술 총괄"
+  },
+  {
+   "index": 117,
+   "ko": "　　　Etienne Jabbour"
+  },
+  {
+   "index": 119,
+   "ko": "애니메이션"
+  },
+  {
+   "index": 120,
+   "ko": "　　　Dave Houston"
+  },
+  {
+   "index": 121,
+   "ko": "　　　Tamsin Nunley"
+  },
+  {
+   "index": 123,
+   "ko": "추가 애니메이션"
+  },
+  {
+   "index": 124,
+   "ko": "　　　Casey Fulton"
+  },
+  {
+   "index": 125,
+   "ko": "　　　Lina Kouznetsova"
+  },
+  {
+   "index": 127,
+   "ko": "음향 디자인"
+  },
+  {
+   "index": 128,
+   "ko": "　　　John Silke"
+  },
+  {
+   "index": 130,
+   "ko": "추가 음향 디자인"
+  },
+  {
+   "index": 131,
+   "ko": "　　　Ciaran Walsh"
+  },
+  {
+   "index": 132,
+   "ko": "　　　Steve Taylor"
+  },
+  {
+   "index": 134,
+   "ko": "품질 검증 총괄"
+  },
+  {
+   "index": 135,
+   "ko": "　　　Imran Yusuf"
+  },
+  {
+   "index": 137,
+   "ko": "멀티플레이 품질 검증 부총괄"
+  },
+  {
+   "index": 138,
+   "ko": "　　　Adam Zamoyski"
+  },
+  {
+   "index": 139,
+   "ko": "　　　Nicolaas J Kotze"
+  },
+  {
+   "index": 141,
+   "ko": "선임 품질 검증"
+  },
+  {
+   "index": 142,
+   "ko": "　　　AIex Holroyd"
+  },
+  {
+   "index": 143,
+   "ko": "　　　Mick Sanderson"
+  },
+  {
+   "index": 144,
+   "ko": "　　　Rory Parsons"
+  },
+  {
+   "index": 146,
+   "ko": "품질 검증"
+  },
+  {
+   "index": 147,
+   "ko": "　　　Christopher Knight"
+  },
+  {
+   "index": 148,
+   "ko": "　　　Gavin Poffley"
+  },
+  {
+   "index": 149,
+   "ko": "　　　Jamie Freeland"
+  },
+  {
+   "index": 150,
+   "ko": "　　　Justin Cheadle"
+  },
+  {
+   "index": 151,
+   "ko": "　　　Nathan Jija"
+  },
+  {
+   "index": 152,
+   "ko": "　　　Stephen Venezia"
+  },
+  {
+   "index": 153,
+   "ko": "　　　Tom Drake"
+  },
+  {
+   "index": 154,
+   "ko": "　　　Wayne Marx"
+  },
+  {
+   "index": 156,
+   "ko": "추가 품질 검증"
+  },
+  {
+   "index": 157,
+   "ko": "　　　Aaron Ludlow"
+  },
+  {
+   "index": 158,
+   "ko": "　　　Darren Gargette"
+  },
+  {
+   "index": 159,
+   "ko": "　　　GIenn Wallbridge"
+  },
+  {
+   "index": 160,
+   "ko": "　　　Greg Stephen"
+  },
+  {
+   "index": 161,
+   "ko": "　　　PauI Lopez"
+  },
+  {
+   "index": 162,
+   "ko": "　　　Robert Grayson"
+  },
+  {
+   "index": 164,
+   "ko": "경영 총괄"
+  },
+  {
+   "index": 165,
+   "ko": "　　　Ian Baverstock"
+  },
+  {
+   "index": 166,
+   "ko": "　　　Jonathan Newth"
+  },
+  {
+   "index": 168,
+   "ko": "제작 감독"
+  },
+  {
+   "index": 169,
+   "ko": "　　　Mike Cox"
+  },
+  {
+   "index": 171,
+   "ko": "추가 미술"
+  },
+  {
+   "index": 172,
+   "ko": "　　　Artplant"
+  },
+  {
+   "index": 173,
+   "ko": "　　　PearI DigitaI"
+  },
+  {
+   "index": 174,
+   "ko": "　　　Program Ace"
+  },
+  {
+   "index": 175,
+   "ko": "　　　Project Zoo"
+  },
+  {
+   "index": 176,
+   "ko": "　　　Roman Van Der Haven"
+  },
+  {
+   "index": 177,
+   "ko": "　　　Think Tank"
+  },
+  {
+   "index": 178,
+   "ko": "　　　Tony Zottola"
+  },
+  {
+   "index": 180,
+   "ko": "추가 음향"
+  },
+  {
+   "index": 181,
+   "ko": "　　　AIex Pfeffer"
+  },
+  {
+   "index": 182,
+   "ko": "　　　ID Audio (Patch McQuaid)"
+  },
+  {
+   "index": 183,
+   "ko": "　　　JNA Music (Justin Scharvona)"
+  },
+  {
+   "index": 185,
+   "ko": "성우"
+  },
+  {
+   "index": 186,
+   "ko": "　　　Brian Bowles"
+  },
+  {
+   "index": 187,
+   "ko": "　　　(앵글로, 리전, 툰드라 및 엑실바니아 보병)"
+  },
+  {
+   "index": 189,
+   "ko": "　　　Colin Mace"
+  },
+  {
+   "index": 190,
+   "ko": "　　　(윈저 대령)"
+  },
+  {
+   "index": 192,
+   "ko": "　　　Dai Tabuchi"
+  },
+  {
+   "index": 193,
+   "ko": "　　　(아퀼라 제독, 솔라 엠파이어 보병)"
+  },
+  {
+   "index": 195,
+   "ko": "　　　Haruka Kuroda"
+  },
+  {
+   "index": 196,
+   "ko": "　　　(레이쿼 여제 및 콰렌 여제)"
+  },
+  {
+   "index": 198,
+   "ko": "　　　Kerry Shale"
+  },
+  {
+   "index": 199,
+   "ko": "　　　(노바 원수, 고르기 황제, 해설)"
+  },
+  {
+   "index": 201,
+   "ko": "　　　Pat Rodriguez"
+  },
+  {
+   "index": 202,
+   "ko": "　　　(베티 준장, 넬리 소령)"
+  },
+  {
+   "index": 204,
+   "ko": "　　　PauI Thornley"
+  },
+  {
+   "index": 205,
+   "ko": "　　　(피어스 사령관)"
+  },
+  {
+   "index": 207,
+   "ko": "　　　Simon Greenall"
+  },
+  {
+   "index": 208,
+   "ko": "　　　(우벨 사령관)"
+  },
+  {
+   "index": 210,
+   "ko": "　　　Stefan Ashton Frank"
+  },
+  {
+   "index": 211,
+   "ko": "　　　(허먼 장군, 오스틴 대령)"
+  },
+  {
+   "index": 213,
+   "ko": "　　　Tom CIarke-Hill"
+  },
+  {
+   "index": 214,
+   "ko": "　　　(웨스턴 프런티어 보병)"
+  },
+  {
+   "index": 216,
+   "ko": "　　　Wolf Kahler"
+  },
+  {
+   "index": 217,
+   "ko": "　　　(블라드 황제, 페록 경)"
+  },
+  {
+   "index": 219,
+   "ko": "집중 테스트"
+  },
+  {
+   "index": 220,
+   "ko": "　　　Adam Cox"
+  },
+  {
+   "index": 221,
+   "ko": "　　　Amber Holliday"
+  },
+  {
+   "index": 222,
+   "ko": "　　　Andrew Scott"
+  },
+  {
+   "index": 223,
+   "ko": "　　　Anne-Marie Webb"
+  },
+  {
+   "index": 224,
+   "ko": "　　　Barry Pattenden"
+  },
+  {
+   "index": 225,
+   "ko": "　　　Cheyenne Stuart"
+  },
+  {
+   "index": 226,
+   "ko": "　　　Dan Short"
+  },
+  {
+   "index": 227,
+   "ko": "　　　DanieI Fraser"
+  },
+  {
+   "index": 228,
+   "ko": "　　　Edward Lacdao"
+  },
+  {
+   "index": 229,
+   "ko": "　　　EIijah Jago"
+  },
+  {
+   "index": 230,
+   "ko": "　　　Emily-Jane Dredge"
+  },
+  {
+   "index": 231,
+   "ko": "　　　Giuliano Maciocci"
+  },
+  {
+   "index": 232,
+   "ko": "　　　Jennifer Walker"
+  },
+  {
+   "index": 233,
+   "ko": "　　　Jon Roland"
+  },
+  {
+   "index": 234,
+   "ko": "　　　Kenji Gonzales"
+  },
+  {
+   "index": 235,
+   "ko": "　　　MichaeI Campos"
+  },
+  {
+   "index": 236,
+   "ko": "　　　MichaeI May"
+  },
+  {
+   "index": 237,
+   "ko": "　　　Richard Lynch"
+  },
+  {
+   "index": 238,
+   "ko": "　　　Sarah Hindmarsh"
+  },
+  {
+   "index": 239,
+   "ko": "　　　Sarah-Jane Colley"
+  },
+  {
+   "index": 240,
+   "ko": "　　　Tina Brister"
+  },
+  {
+   "index": 241,
+   "ko": "　　　Tony Di Carlo"
+  },
+  {
+   "index": 242,
+   "ko": "　　　Vincent Scheurer"
+  },
+  {
+   "index": 244,
+   "ko": "도움을 주신 분들"
+  },
+  {
+   "index": 245,
+   "ko": "　　　ageia Technologies Inc."
+  },
+  {
+   "index": 246,
+   "ko": "　　　DanieI Pemberton"
+  },
+  {
+   "index": 247,
+   "ko": "　　　Jon Vernon"
+  },
+  {
+   "index": 248,
+   "ko": "　　　Joseph Buchanan"
+  },
+  {
+   "index": 249,
+   "ko": "　　　Torgny Lindström"
+  },
+  {
+   "index": 250,
+   "ko": "　　　Yevgen Dyryavyy"
+  },
+  {
+   "index": 251,
+   "ko": "　　　Yota Wada"
+  },
+  {
+   "index": 254,
+   "ko": "닌텐도 제작진:"
+  },
+  {
+   "index": 256,
+   "ko": "총괄 프로듀서"
+  },
+  {
+   "index": 257,
+   "ko": "　　　Satoru Iwata"
+  },
+  {
+   "index": 259,
+   "ko": "프로듀서"
+  },
+  {
+   "index": 260,
+   "ko": "　　　Kensuke Tanabe"
+  },
+  {
+   "index": 261,
+   "ko": "　　　Keisuke Terasaki"
+  },
+  {
+   "index": 263,
+   "ko": "감수"
+  },
+  {
+   "index": 264,
+   "ko": "　　　Hiro Yamada"
+  },
+  {
+   "index": 265,
+   "ko": "　　　Masa Miyazaki"
+  },
+  {
+   "index": 266,
+   "ko": "　　　Kaori Miyachi"
+  },
+  {
+   "index": 268,
+   "ko": "일본어 현지화"
+  },
+  {
+   "index": 269,
+   "ko": "　　　Keisuke Terasaki"
+  },
+  {
+   "index": 270,
+   "ko": "　　　Hiro Yamada"
+  },
+  {
+   "index": 271,
+   "ko": "　　　Masa Miyazaki"
+  },
+  {
+   "index": 272,
+   "ko": "　　　Kiyohiko Ando"
+  },
+  {
+   "index": 273,
+   "ko": "　　　Kaori Miyachi"
+  },
+  {
+   "index": 274,
+   "ko": "　　　Yoshitomo Kitamura"
+  },
+  {
+   "index": 275,
+   "ko": "　　　Tomoaki Kuroume"
+  },
+  {
+   "index": 276,
+   "ko": "　　　Takahiro Hamaguchi"
+  },
+  {
+   "index": 277,
+   "ko": "　　　Mei Ide"
+  },
+  {
+   "index": 279,
+   "ko": "테스트"
+  },
+  {
+   "index": 280,
+   "ko": "　　　NCL Super Mario CIub"
+  },
+  {
+   "index": 281,
+   "ko": "　　　NOA Product Testing"
+  },
+  {
+   "index": 283,
+   "ko": "도움을 주신 분들"
+  },
+  {
+   "index": 284,
+   "ko": "　　　Tom Prata"
+  },
+  {
+   "index": 285,
+   "ko": "　　　Chiko Bird"
+  },
+  {
+   "index": 286,
+   "ko": "　　　Brett Gow"
+  },
+  {
+   "index": 287,
+   "ko": "　　　Stephen Ward"
+  },
+  {
+   "index": 288,
+   "ko": "　　　Pat Wells"
+  },
+  {
+   "index": 289,
+   "ko": "　　　Toru Inage"
+  },
+  {
+   "index": 290,
+   "ko": "　　　Takehiro Oyama"
+  },
+  {
+   "index": 293,
+   "ko": "게임, 시나리오, 음악 및 프로그램의"
+  },
+  {
+   "index": 294,
+   "ko": "저작권을 포함한 모든 권리는"
+  },
+  {
+   "index": 295,
+   "ko": "닌텐도에 있습니다."
+  }
+ ]
+}

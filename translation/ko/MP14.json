@@ -1,0 +1,388 @@
+{
+ "file": "MP14Japanese.str",
+ "scene": "MP14",
+ "entries": [
+  {
+   "index": 0,
+   "speaker": "RetiredHerman",
+   "ko": "잘 듣게! 이번에는 솔라군과\n합동으로 엑실바니아군 시설 세 곳을\n습격하겠네!"
+  },
+  {
+   "index": 1,
+   "speaker": "RetiredHerman",
+   "ko": "기지의 수용소에는 포로들이 붙잡혀 있네!"
+  },
+  {
+   "index": 2,
+   "speaker": "RetiredHerman",
+   "ko": "금색 별은 시설의 위치,\n은색 별은 포로의 위치라네."
+  },
+  {
+   "index": 5,
+   "speaker": "Ubel",
+   "ko": "프런티어 개들, 우벨 시설에\n몰래 다가올 수 있을 것 같나?\n크게 틀렸다! 공격한다~!"
+  },
+  {
+   "index": 6,
+   "speaker": "RetiredHerman",
+   "ko": "좋았어!\n다음은 레이더 기지와 무기 보관소를\n날려 버리게!"
+  },
+  {
+   "index": 7,
+   "speaker": "RetiredHerman",
+   "ko": "좋았어~! 이제 레이더 기지만\n날려 버리면 된다네!"
+  },
+  {
+   "index": 8,
+   "speaker": "RetiredHerman",
+   "ko": "좋아!\n이제 무기 보관소만 날려 버리면 되네!"
+  },
+  {
+   "index": 9,
+   "speaker": "RetiredHerman",
+   "ko": "콰~쾅! 이거로군~!\n자, 다음은 레이더 기지와 연료 공장을\n날려 버리게!"
+  },
+  {
+   "index": 10,
+   "speaker": "RetiredHerman",
+   "ko": "콰~쾅! 이거로군~!\n이제 레이더 기지만 날려 버리면 되네!"
+  },
+  {
+   "index": 11,
+   "speaker": "RetiredHerman",
+   "ko": "콰~쾅! 이거로군~!\n이제 연료 공장만 날려 버리면 되네!"
+  },
+  {
+   "index": 12,
+   "speaker": "RetiredHerman",
+   "ko": "레이더 기지를 지워 버렸네! …하지만\n아직 무기 보관소와 연료 공장이 남았네!"
+  },
+  {
+   "index": 13,
+   "speaker": "RetiredHerman",
+   "ko": "레이더 기지가 잿더미가 됐네! …하지만\n아직 무기 보관소가 남았어!"
+  },
+  {
+   "index": 14,
+   "speaker": "RetiredHerman",
+   "ko": "레이더 기지를 날려 버렸네! …하지만\n아직 연료 공장이 남았어!"
+  },
+  {
+   "index": 16,
+   "speaker": "RetiredHerman",
+   "ko": "좋았어, 잘했네!\n멍청한 우벨이 증원군을 부르기 전에\n여기서 빠져나가세!"
+  },
+  {
+   "index": 18,
+   "speaker": "Ubel",
+   "ko": "이렇게 약해 빠진 부대가 우벨의 레이더를\n공격하려고 하나!?\n전투 헬기! 공격한다!"
+  },
+  {
+   "index": 19,
+   "speaker": "Ubel",
+   "ko": "우벨의 소중한 연료 사라졌다!\n블라드 님 엄청 화낸다~!"
+  },
+  {
+   "index": 20,
+   "speaker": "Ubel",
+   "ko": "우벨, 레이더 신호 못 읽는다.\n누가 선 뽑았나~?"
+  },
+  {
+   "index": 21,
+   "speaker": "Ubel",
+   "ko": "귀여운 폭발, 엑실바니아 기념일의\n불꽃놀이 같다… 어라?! 저거 블라드 님의\n소중한 미사일이다! 안 돼~!"
+  },
+  {
+   "index": 22,
+   "speaker": "RetiredHerman",
+   "ko": "좋았어~!\n계획이 착착 맞아떨어지니 기분 좋구먼!\n하하하~!"
+  },
+  {
+   "index": 23,
+   "speaker": "Ubel",
+   "ko": "적이 우벨 무기고에 다가온다!\n엄청 빨리 공격한다~!"
+  },
+  {
+   "index": 24,
+   "speaker": "RetiredHerman",
+   "ko": "여기가 무기 보관소라네.\n쌓여 있는 무기를 박살 내 주게!\n적 기관총 타워는 조심하게!"
+  },
+  {
+   "index": 25,
+   "speaker": "RetiredHerman",
+   "ko": "기관총 타워는 바로 아래가 사각지대라네!\n잘 이용해 주게!"
+  },
+  {
+   "index": 26,
+   "speaker": "RetiredHerman",
+   "ko": "연료 공장에 가까워졌네!\n솔라 엠파이어에 있는 엑실바니아군이 쓰는\n연료는 모두 저기서 만든다네!"
+  },
+  {
+   "index": 27,
+   "speaker": "RetiredHerman",
+   "ko": "엑실바니아 전투 헬기가\n연료 공장 상공을 순찰하고 있군…"
+  },
+  {
+   "index": 28,
+   "speaker": "Ubel",
+   "ko": "프런티어 개들이 우벨의\n소중한 연료 훔치려 한다! 전투 헬기 보낸다!"
+  },
+  {
+   "index": 29,
+   "speaker": "RetiredHerman",
+   "ko": "연료 공장 주변은 경비병이 빈틈없이\n지키고 있군…"
+  },
+  {
+   "index": 30,
+   "speaker": "RetiredHerman",
+   "ko": "레이더에 표시된 합류 지점으로 가게.\n서두르게~!"
+  },
+  {
+   "index": 31,
+   "speaker": "RetiredHerman",
+   "ko": "레이더 기지에 가까워졌네."
+  },
+  {
+   "index": 32,
+   "speaker": "RetiredHerman",
+   "ko": "유난히 조용하군…\n하지만 겉모습에 속지는 말게!"
+  },
+  {
+   "index": 33,
+   "speaker": "RetiredHerman",
+   "ko": "적 기지 안은 경비병으로 가득하네!\n어서 쓸어버리게!"
+  },
+  {
+   "index": 34,
+   "speaker": "Ubel",
+   "ko": "적이 다가온다!\n제자리로 간다! 우벨 명령한다!"
+  },
+  {
+   "index": 36,
+   "speaker": "RetiredHerman",
+   "ko": "연료 공장…"
+  },
+  {
+   "index": 37,
+   "speaker": "RetiredHerman",
+   "ko": "무기 보관소…"
+  },
+  {
+   "index": 38,
+   "speaker": "RetiredHerman",
+   "ko": "그리고 레이더 기지…"
+  },
+  {
+   "index": 39,
+   "ko": "무기 보관소를 파괴하라"
+  },
+  {
+   "index": 40,
+   "ko": "레이더 기지를 파괴하라"
+  },
+  {
+   "index": 41,
+   "ko": "연료 공장을 폭파하라"
+  },
+  {
+   "index": 42,
+   "ko": "무기 보관소 부근의 포로를 구출하라"
+  },
+  {
+   "index": 43,
+   "ko": "레이더 기지 부근의 포로를 구출하라"
+  },
+  {
+   "index": 44,
+   "ko": "연료 공장 부근의 포로를 구출하라"
+  },
+  {
+   "index": 46,
+   "speaker": "RetiredHerman",
+   "ko": "하지만 잊지 말게!\n시설 세 곳을 모두 치기 전에는 퇴각할 수 없네!"
+  },
+  {
+   "index": 47,
+   "speaker": "Ubel",
+   "ko": "프런티어, 우벨을\n엄청 화나게 했다~!"
+  },
+  {
+   "index": 48,
+   "speaker": "RetiredHerman",
+   "ko": "부대가 전멸했네!\n미션 실패로군~!"
+  },
+  {
+   "index": 49,
+   "ko": "탈출 지점까지 진격하라"
+  },
+  {
+   "index": 51,
+   "ko": "전멸해 버렸네! …이렇게 된 이상\n솔라군이 우리 포로를 구출해 주기를\n기다리는 수밖에 없겠군!"
+  },
+  {
+   "index": 52,
+   "ko": "전멸하고 말았습니다… 허먼 장군께서\n포로를 구출해 주실 때까지 기다립시다."
+  },
+  {
+   "index": 53,
+   "ko": "이제 어쩔 도리가 없네…\n솔라군의 선전을 빌 뿐이야!"
+  },
+  {
+   "index": 54,
+   "ko": "우리 군은 전멸하고 말았습니다…!\n나머지는 허먼 장군께 맡깁시다!"
+  },
+  {
+   "index": 55,
+   "ko": "프런티어군과 솔라군이 모두 전멸했네…\n미션 실패…"
+  },
+  {
+   "index": 56,
+   "ko": "여제님의 부대가 전멸한 모양이군.\n솔라군 포로를 찾아 구출해 주게!"
+  },
+  {
+   "index": 57,
+   "ko": "허먼 장군의 부대가 전멸한 모양입니다.\n프런티어군 포로를 구출하세요!"
+  },
+  {
+   "index": 58,
+   "ko": "솔라군이 전멸한 모양이군…\n이제 우리밖에 없네!"
+  },
+  {
+   "index": 59,
+   "ko": "허먼 장군의 부대가 전멸한 모양입니다…\n우리 힘으로 승리를 거둡시다!"
+  },
+  {
+   "index": 60,
+   "speaker": "Ubel",
+   "ko": "우벨 또 실패했다!\n블라드 님이 우벨을 구두닦이로 강등하는 거,\n이제 시간문제다~!"
+  },
+  {
+   "index": 62,
+   "speaker": "Leiqo",
+   "ko": "프런티어군도 전멸하고 말았습니다…\n미션 실패입니다!"
+  },
+  {
+   "index": 63,
+   "speaker": "RetiredHerman",
+   "ko": "솔라 엠파이어군도 전멸했네…\n미션 실패…!"
+  },
+  {
+   "index": 66,
+   "speaker": "Leiqo",
+   "ko": "적의 「핵심」이 되는 곳을 공격하세요…\n우선 레이더 기지부터 공격합시다."
+  },
+  {
+   "index": 67,
+   "speaker": "RetiredHerman",
+   "ko": "여제님 말씀 들었겠지!?\n어서 저 비탈길을 올라가게!"
+  },
+  {
+   "index": 69,
+   "speaker": "RetiredHerman",
+   "ko": "야호~!\n무기 보관소의 포로를 구출했네!"
+  },
+  {
+   "index": 70,
+   "speaker": "Leiqo",
+   "ko": "훌륭합니다!\n레이더 기지 부근의 포로를 구출했군요!"
+  },
+  {
+   "index": 71,
+   "speaker": "RetiredHerman",
+   "ko": "이~하!\n연료 공장의 포로를 구출했네!"
+  },
+  {
+   "index": 73,
+   "ko": "제기랄~!\n우리 부대도 전멸했네~!\n미션 실패…"
+  },
+  {
+   "index": 74,
+   "speaker": "Leiqo",
+   "ko": "병사 유닛이 없으면 헬리패드를\n작동할 수 없습니다… 미션 실패입니다…"
+  },
+  {
+   "index": 76,
+   "ko": "지휘관 표시 대사"
+  },
+  {
+   "index": 77,
+   "speaker": "RetiredHerman",
+   "ko": "이 유닛을 지원하게!"
+  },
+  {
+   "index": 78,
+   "speaker": "Leiqo",
+   "ko": "이 유닛을 도와주세요!"
+  },
+  {
+   "index": 80,
+   "speaker": "RetiredHerman",
+   "ko": "저 표적을 쓰러뜨리게!"
+  },
+  {
+   "index": 81,
+   "speaker": "Leiqo",
+   "ko": "저 표적을 쓰러뜨리세요!"
+  },
+  {
+   "index": 83,
+   "speaker": "RetiredHerman",
+   "ko": "헬리패드를 작동시키게!"
+  },
+  {
+   "index": 84,
+   "speaker": "Leiqo",
+   "ko": "헬리패드를 작동시키세요!"
+  },
+  {
+   "index": 86,
+   "speaker": "RetiredHerman",
+   "ko": "저것을 부수게!"
+  },
+  {
+   "index": 87,
+   "speaker": "Leiqo",
+   "ko": "저것을 파괴하세요!"
+  },
+  {
+   "index": 89,
+   "speaker": "RetiredHerman",
+   "ko": "이곳까지 진격하게!"
+  },
+  {
+   "index": 90,
+   "speaker": "Leiqo",
+   "ko": "이 지역까지 진군하세요!"
+  },
+  {
+   "index": 92,
+   "speaker": "RetiredHerman",
+   "ko": "좋았어!"
+  },
+  {
+   "index": 93,
+   "speaker": "Leiqo",
+   "ko": "알겠어요!"
+  },
+  {
+   "index": 95,
+   "speaker": "RetiredHerman",
+   "ko": "미안하네, 무리야!"
+  },
+  {
+   "index": 96,
+   "speaker": "Leiqo",
+   "ko": "그건 할 수 없습니다!"
+  },
+  {
+   "index": 98,
+   "speaker": "RetiredHerman",
+   "ko": "이 녀석에게 모이게!"
+  },
+  {
+   "index": 99,
+   "speaker": "Leiqo",
+   "ko": "이쪽으로 모여 주세요!"
+  }
+ ]
+}

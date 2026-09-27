@@ -1,0 +1,280 @@
+{
+ "file": "MP4Japanese.str",
+ "scene": "MP4",
+ "entries": [
+  {
+   "index": 0,
+   "ko": "영상"
+  },
+  {
+   "index": 1,
+   "speaker": "Ubel",
+   "ko": "여기는 에도 아일랜드다~.\n웨스턴 프런티어가 주둔하고 있지만\n그것도 오늘까지다~!"
+  },
+  {
+   "index": 2,
+   "speaker": "Ubel",
+   "ko": "이 레이더 기지 부수고\n내친김에 미사일 발사대도 부순다."
+  },
+  {
+   "index": 3,
+   "speaker": "Ubel",
+   "ko": "그다음 언덕 올라 성으로 가서\n거기 사령 기지 점령한다~!"
+  },
+  {
+   "index": 4,
+   "speaker": "Ubel",
+   "ko": "웨스턴 프런티어 함대 오기까지\n6분 남았다! 그 전에 이 섬 점령한다~!"
+  },
+  {
+   "index": 5,
+   "speaker": "Ubel",
+   "ko": "우벨, 앞에 튼튼한 기관총 타워 보인다!\n저거 부숴서 숲 지나갈 길 연다~!"
+  },
+  {
+   "index": 6,
+   "speaker": "RetiredHerman",
+   "ko": "이 에도 아일랜드는 싸우기 딱 좋은 날씨로군!\n엑실바니아 놈들이 남쪽 해변으로\n상륙했네."
+  },
+  {
+   "index": 7,
+   "speaker": "RetiredHerman",
+   "ko": "우리는 이곳의 레이더 기지와\n미사일 발사대 두 대를 엑실바니아로부터\n지켜야 하네!"
+  },
+  {
+   "index": 8,
+   "speaker": "RetiredHerman",
+   "ko": "만약 끝까지 지키지 못하면\n즉시 사령 기지로 퇴각하여 시간이 다 될\n때까지 버텨야 하네!"
+  },
+  {
+   "index": 9,
+   "speaker": "RetiredHerman",
+   "ko": "아무튼 6분 동안 정신 바짝 차리게!"
+  },
+  {
+   "index": 10,
+   "ko": "목표 메시지"
+  },
+  {
+   "index": 11,
+   "speaker": "RetiredHerman",
+   "ko": "미사일 발사대 한 대가 당했네!"
+  },
+  {
+   "index": 12,
+   "speaker": "RetiredHerman",
+   "ko": "레이더 기지가 당했네!"
+  },
+  {
+   "index": 13,
+   "speaker": "Ubel",
+   "ko": "봐라~! 미사일인데 날아가기도 전에\n터진다! 하하하하~!"
+  },
+  {
+   "index": 14,
+   "speaker": "Ubel",
+   "ko": "귀엽고 동그란 접시 산산조각 났다~!\n허먼, 이제 엄마한테 전화 못 한다~!"
+  },
+  {
+   "index": 15,
+   "speaker": "RetiredHerman",
+   "ko": "출현 지점이 사령 기지 뒤로 후퇴했네!\n어서 사령 기지까지 퇴각하게!"
+  },
+  {
+   "index": 16,
+   "speaker": "Ubel",
+   "ko": "출현 지점 앞으로 옮겼다~!\n언덕 올라 사령 기지 차지한다! 서둘러~!"
+  },
+  {
+   "index": 17,
+   "ko": "깃발 메시지"
+  },
+  {
+   "index": 18,
+   "speaker": "RetiredHerman",
+   "ko": "엑실바니아가 사령 기지를\n점령하려 하네!"
+  },
+  {
+   "index": 19,
+   "speaker": "RetiredHerman",
+   "ko": "사령 기지가 점령당하겠네!"
+  },
+  {
+   "index": 20,
+   "speaker": "Ubel",
+   "ko": "웨스턴 프런티어 사령 기지,\n한창 점령 중이다!"
+  },
+  {
+   "index": 21,
+   "speaker": "Ubel",
+   "ko": "우벨 부대, 사령 기지 점령까지\n조금만 더 하면 된다~!"
+  },
+  {
+   "index": 22,
+   "ko": "종료 영상 - 플레이어 1 승리"
+  },
+  {
+   "index": 23,
+   "speaker": "RetiredHerman",
+   "ko": "내 해군의 진정한 힘을 보여 주마!"
+  },
+  {
+   "index": 24,
+   "speaker": "RetiredHerman",
+   "ko": "발사~! 쏴 버리게~!"
+  },
+  {
+   "index": 25,
+   "speaker": "Ubel",
+   "ko": "우벨, 돌아오라고 했다!\n돌아와~! …아아, 우벨 혼난다!"
+  },
+  {
+   "index": 26,
+   "speaker": "RetiredHerman",
+   "ko": "야호~! 성에서 거하게 잔치나 벌이세~!\n미션 완료!"
+  },
+  {
+   "index": 27,
+   "ko": "종료 영상 - 플레이어 2 승리"
+  },
+  {
+   "index": 28,
+   "speaker": "Ubel",
+   "ko": "허먼, 섬 빼앗긴 거 눈치챘을까…?"
+  },
+  {
+   "index": 29,
+   "speaker": "Ubel",
+   "ko": "자주포, 발사~! 하하하!"
+  },
+  {
+   "index": 30,
+   "speaker": "RetiredHerman",
+   "ko": "함정이네! 회피하게, 회피하라니까~!"
+  },
+  {
+   "index": 31,
+   "speaker": "Ubel",
+   "ko": "에도 아일랜드는 우벨 섬이다~!\n해변에서 파티다! 미션 완료!"
+  },
+  {
+   "index": 32,
+   "speaker": "Ubel",
+   "ko": "미사일 터지는 거,\n엑실바니아 기념일 불꽃놀이 같다~!\n블라드 님 엄청 기뻐한다~!"
+  },
+  {
+   "index": 34,
+   "speaker": "RetiredHerman",
+   "ko": "어이, 어딜 가는 건가!?\n어서 제자리로 돌아오게!"
+  },
+  {
+   "index": 35,
+   "speaker": "Ubel",
+   "ko": "어디로 가려고 하나~?\n우벨, 지금 목표로 돌아가야 한다고 생각한다!"
+  },
+  {
+   "index": 37,
+   "ko": "종료 영상 - 패배 문자열"
+  },
+  {
+   "index": 38,
+   "speaker": "Ubel",
+   "ko": "사령 기지는 아직 허먼 거고,\n우벨 수영복은 모래투성이다…\n모처럼 휴가 망쳤다! 미션 실패!"
+  },
+  {
+   "index": 39,
+   "speaker": "RetiredHerman",
+   "ko": "내 사령 기지가, 에도 아일랜드가\n저 멍청이한테 넘어갔네~!\n미션 실패…!"
+  },
+  {
+   "index": 51,
+   "speaker": "Ubel",
+   "ko": "5분 남았다~!"
+  },
+  {
+   "index": 52,
+   "speaker": "Ubel",
+   "ko": "앞으로 3분이다~!"
+  },
+  {
+   "index": 53,
+   "speaker": "Ubel",
+   "ko": "2분 남았다!"
+  },
+  {
+   "index": 54,
+   "speaker": "Ubel",
+   "ko": "1분 남았다!"
+  },
+  {
+   "index": 55,
+   "speaker": "Ubel",
+   "ko": "30초 남았다!"
+  },
+  {
+   "index": 57,
+   "speaker": "RetiredHerman",
+   "ko": "아직 5분 남았네!"
+  },
+  {
+   "index": 58,
+   "speaker": "RetiredHerman",
+   "ko": "앞으로 3분이네!"
+  },
+  {
+   "index": 59,
+   "speaker": "RetiredHerman",
+   "ko": "앞으로 2분이네!"
+  },
+  {
+   "index": 60,
+   "speaker": "RetiredHerman",
+   "ko": "이제 1분 남았네!"
+  },
+  {
+   "index": 61,
+   "speaker": "RetiredHerman",
+   "ko": "앞으로 30초!"
+  },
+  {
+   "index": 91,
+   "ko": "군사 시설을 지켜라(실패)"
+  },
+  {
+   "index": 92,
+   "ko": "군사 시설을 지켜라(1/3)"
+  },
+  {
+   "index": 93,
+   "ko": "군사 시설을 지켜라(2/3)"
+  },
+  {
+   "index": 94,
+   "ko": "군사 시설을 지켜라(3/3)"
+  },
+  {
+   "index": 95,
+   "ko": "군사 시설을 파괴하라(0/3)"
+  },
+  {
+   "index": 96,
+   "ko": "군사 시설을 파괴하라(1/3)"
+  },
+  {
+   "index": 97,
+   "ko": "군사 시설을 파괴하라(2/3)"
+  },
+  {
+   "index": 98,
+   "ko": "군사 시설을 파괴하라(3/3)"
+  },
+  {
+   "index": 99,
+   "ko": "웨스턴 프런티어군 사령 기지를 점령하라"
+  },
+  {
+   "index": 100,
+   "ko": "사령 기지를 지켜라"
+  }
+ ]
+}

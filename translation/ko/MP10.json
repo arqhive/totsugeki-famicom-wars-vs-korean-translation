@@ -1,0 +1,308 @@
+{
+ "file": "MP10Japanese.str",
+ "scene": "MP10",
+ "entries": [
+  {
+   "index": 0,
+   "ko": "도입 영상"
+  },
+  {
+   "index": 1,
+   "speaker": "Qalen",
+   "ko": "리전군이 솔라 엠파이어국으로 진군해\n온 모양이구나… 몰아내야 하느니라!"
+  },
+  {
+   "index": 2,
+   "speaker": "Ferrok",
+   "ko": "이제 솔라 엠파이어만 제압하면\n세계는 아이언 리전의 것이다!"
+  },
+  {
+   "index": 3,
+   "speaker": "Qalen",
+   "ko": "병영에서는 보병, 바주카병, 화염방사병,\n그리고 미사일병을 보충할 수 있느니라!"
+  },
+  {
+   "index": 4,
+   "speaker": "Ferrok",
+   "ko": "병영에서는 보병, 바주카병, 화염방사병,\n그리고 미사일병을 보충할 수 있다!"
+  },
+  {
+   "index": 5,
+   "speaker": "Qalen",
+   "ko": "공장에는 은색 별이 붙어 있느니라.\n점령하면 자주포를 얻을 수 있느니라."
+  },
+  {
+   "index": 6,
+   "speaker": "Ferrok",
+   "ko": "공장을 점령하면 자주포를 얻을 수 있다!\n자, 은색 별을 찾아라!"
+  },
+  {
+   "index": 7,
+   "speaker": "Qalen",
+   "ko": "공군 기지에도 은색 별이 붙어 있느니라.\n점령하여 전투 헬기를 얻거라!"
+  },
+  {
+   "index": 8,
+   "speaker": "Ferrok",
+   "ko": "공군 기지에서는 전투 헬기를 얻을 수 있다.\n은색 별로 위치를 확인하고 점령하라!"
+  },
+  {
+   "index": 13,
+   "ko": "툰드라군 목표"
+  },
+  {
+   "index": 14,
+   "ko": "가능한 한 많은 적을 쓰러뜨려라"
+  },
+  {
+   "index": 15,
+   "ko": "시설을 점령하라"
+  },
+  {
+   "index": 16,
+   "ko": "엑실바니아군 목표"
+  },
+  {
+   "index": 17,
+   "ko": "가능한 한 많은 적을 쓰러뜨려라"
+  },
+  {
+   "index": 18,
+   "ko": "시설을 점령하라"
+  },
+  {
+   "index": 25,
+   "ko": "툰드라군 플레이어 시설 알림"
+  },
+  {
+   "index": 26,
+   "speaker": "Qalen",
+   "ko": "공군 기지는 나의 것이니라!"
+  },
+  {
+   "index": 27,
+   "speaker": "Qalen",
+   "ko": "공군 기지를 점령했구나!"
+  },
+  {
+   "index": 28,
+   "speaker": "Qalen",
+   "ko": "공군 기지가 나의 것이 되었느니라!"
+  },
+  {
+   "index": 29,
+   "speaker": "Qalen",
+   "ko": "공군 기지를 점령해 냈구나!"
+  },
+  {
+   "index": 30,
+   "speaker": "Qalen",
+   "ko": "리전군이 공군 기지를\n손에 넣은 모양이구나!"
+  },
+  {
+   "index": 31,
+   "speaker": "Qalen",
+   "ko": "페록 경이 공군 기지를\n손에 넣은 모양이구나!"
+  },
+  {
+   "index": 32,
+   "speaker": "Qalen",
+   "ko": "공군 기지가 적에게 넘어간 모양이구나!"
+  },
+  {
+   "index": 33,
+   "speaker": "Qalen",
+   "ko": "페록 경이 공군 기지를\n손에 넣은 모양이구나!"
+  },
+  {
+   "index": 34,
+   "speaker": "Qalen",
+   "ko": "공장은 나의 것이니라!"
+  },
+  {
+   "index": 35,
+   "speaker": "Qalen",
+   "ko": "공장을 점령했구나!"
+  },
+  {
+   "index": 36,
+   "speaker": "Qalen",
+   "ko": "공장이 나의 것이 되었느니라!"
+  },
+  {
+   "index": 37,
+   "speaker": "Qalen",
+   "ko": "공장을 점령해 냈구나!"
+  },
+  {
+   "index": 38,
+   "speaker": "Qalen",
+   "ko": "리전군이 공장을 손에 넣은 모양이구나!"
+  },
+  {
+   "index": 39,
+   "speaker": "Qalen",
+   "ko": "페록 경이 공장을 손에 넣은 모양이구나!"
+  },
+  {
+   "index": 40,
+   "speaker": "Qalen",
+   "ko": "적이 공장을 점령한 모양이구나!"
+  },
+  {
+   "index": 41,
+   "speaker": "Qalen",
+   "ko": "페록 경이 공장을 손에 넣은 모양이구나!"
+  },
+  {
+   "index": 51,
+   "ko": "엑실바니아군 플레이어 시설 알림"
+  },
+  {
+   "index": 52,
+   "speaker": "Ferrok",
+   "ko": "공군 기지를 점령했다!"
+  },
+  {
+   "index": 53,
+   "speaker": "Ferrok",
+   "ko": "공군 기지는 이 몸의 것이다!"
+  },
+  {
+   "index": 54,
+   "speaker": "Ferrok",
+   "ko": "공군 기지를 차지했다!"
+  },
+  {
+   "index": 55,
+   "speaker": "Ferrok",
+   "ko": "공군 기지를 점령했다!"
+  },
+  {
+   "index": 56,
+   "speaker": "Ferrok",
+   "ko": "콰렌이 공군 기지를 점령했다!"
+  },
+  {
+   "index": 57,
+   "speaker": "Ferrok",
+   "ko": "솔라 엠파이어가 공군 기지를\n점령했다!"
+  },
+  {
+   "index": 58,
+   "speaker": "Ferrok",
+   "ko": "콰렌의 부대가 공군 기지를\n점령했다!"
+  },
+  {
+   "index": 59,
+   "speaker": "Ferrok",
+   "ko": "적이 공군 기지를 점령했다!"
+  },
+  {
+   "index": 60,
+   "speaker": "Ferrok",
+   "ko": "공장을 손에 넣었다!"
+  },
+  {
+   "index": 61,
+   "speaker": "Ferrok",
+   "ko": "공장은 이 몸의 것이다!"
+  },
+  {
+   "index": 62,
+   "speaker": "Ferrok",
+   "ko": "공장을 차지했다!"
+  },
+  {
+   "index": 63,
+   "speaker": "Ferrok",
+   "ko": "공장을 점령했다!"
+  },
+  {
+   "index": 64,
+   "speaker": "Ferrok",
+   "ko": "콰렌이 공장을 점령했다!"
+  },
+  {
+   "index": 65,
+   "speaker": "Ferrok",
+   "ko": "솔라 엠파이어가 공장을 점령했다!"
+  },
+  {
+   "index": 66,
+   "speaker": "Ferrok",
+   "ko": "콰렌의 부대가 공장을 점령했다!"
+  },
+  {
+   "index": 67,
+   "speaker": "Ferrok",
+   "ko": "적이 공장을 점령했다!"
+  },
+  {
+   "index": 73,
+   "ko": "동일 시설 2개 점령 알림"
+  },
+  {
+   "index": 74,
+   "speaker": "Qalen",
+   "ko": "공장 두 곳을 점령했구나!\n이제 자주포 보충 속도가 두 배이니라!"
+  },
+  {
+   "index": 75,
+   "speaker": "Ferrok",
+   "ko": "공장 두 곳을 점령했다!\n이제 자주포 보충 속도가 두 배가 된다!"
+  },
+  {
+   "index": 82,
+   "ko": "연장전"
+  },
+  {
+   "index": 83,
+   "speaker": "Qalen",
+   "ko": "동점이니라!\n100점을 먼저 얻는 쪽이 이기느니라!"
+  },
+  {
+   "index": 84,
+   "speaker": "Ferrok",
+   "ko": "동점이다!\n100점을 먼저 얻는 쪽이 이긴다!"
+  },
+  {
+   "index": 91,
+   "ko": "종료 영상"
+  },
+  {
+   "index": 92,
+   "speaker": "Qalen",
+   "ko": "승리이니라!\n그대에게 경의를 표하노라!"
+  },
+  {
+   "index": 93,
+   "speaker": "Qalen",
+   "ko": "패배이니라…\n리전군에게 제압당하고 말았구나…!"
+  },
+  {
+   "index": 95,
+   "speaker": "Ferrok",
+   "ko": "승리다!\n뭐, 당연한 결과지만."
+  },
+  {
+   "index": 96,
+   "speaker": "Ferrok",
+   "ko": "패배다! 심판을 받아라!"
+  },
+  {
+   "index": 100,
+   "ko": "남은 시간"
+  },
+  {
+   "index": 101,
+   "speaker": "Qalen",
+   "ko": "1분 남았느니라!\n긴장을 늦추지 말거라!"
+  },
+  {
+   "index": 102,
+   "speaker": "Ferrok",
+   "ko": "1분 남았다.\n어서 승리를 결정지어라!"
+  }
+ ]
+}

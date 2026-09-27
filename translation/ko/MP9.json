@@ -1,0 +1,228 @@
+{
+ "file": "MP9Japanese.str",
+ "scene": "MP9",
+ "entries": [
+  {
+   "index": 0,
+   "ko": "도입 영상"
+  },
+  {
+   "index": 1,
+   "speaker": "Herman",
+   "ko": "고르기 녀석이 국경을 넘어 전쟁을 걸어왔군.\n조금 놀아 줘 볼까!"
+  },
+  {
+   "index": 2,
+   "speaker": "Gorgi",
+   "ko": "이번에는 프런티어 카우보이 놈들에게\n한 수 가르쳐 주려고 멀리 국경을 넘어\n와 주었다!"
+  },
+  {
+   "index": 3,
+   "speaker": "Herman",
+   "ko": "병영에서 보병, 바주카병, 미사일병이\n보충된다!"
+  },
+  {
+   "index": 4,
+   "speaker": "Gorgi",
+   "ko": "병영에서 보병, 바주카병, 미사일병이\n보충된다!"
+  },
+  {
+   "index": 5,
+   "speaker": "Herman",
+   "ko": "공장에서는 중전차가 보충된다!"
+  },
+  {
+   "index": 6,
+   "speaker": "Gorgi",
+   "ko": "공장에서는 중전차가 보충된다!"
+  },
+  {
+   "index": 7,
+   "speaker": "Herman",
+   "ko": "은색 별이 붙은 공군 기지를 점령해서\n전투 헬기도 확보해라!"
+  },
+  {
+   "index": 8,
+   "speaker": "Gorgi",
+   "ko": "은색 별이 붙은 공군 기지를 점령하여\n전투 헬기도 확보하라!"
+  },
+  {
+   "index": 13,
+   "ko": "툰드라군 목표"
+  },
+  {
+   "index": 14,
+   "ko": "가능한 한 많은 적을 쓰러뜨려라"
+  },
+  {
+   "index": 15,
+   "ko": "시설을 점령하라"
+  },
+  {
+   "index": 16,
+   "ko": "엑실바니아군 목표"
+  },
+  {
+   "index": 17,
+   "ko": "가능한 한 많은 적을 쓰러뜨려라"
+  },
+  {
+   "index": 18,
+   "ko": "시설을 점령하라"
+  },
+  {
+   "index": 25,
+   "ko": "툰드라군 플레이어 시설 알림"
+  },
+  {
+   "index": 26,
+   "speaker": "Herman",
+   "ko": "공군 기지는 프런티어군 것이다!"
+  },
+  {
+   "index": 27,
+   "speaker": "Herman",
+   "ko": "공군 기지를 점령했다!"
+  },
+  {
+   "index": 28,
+   "speaker": "Herman",
+   "ko": "공군 기지를 확보했다!"
+  },
+  {
+   "index": 29,
+   "speaker": "Herman",
+   "ko": "공군 기지를 손에 넣었다!"
+  },
+  {
+   "index": 30,
+   "speaker": "Herman",
+   "ko": "툰드라군이 공군 기지를 점령했다!"
+  },
+  {
+   "index": 31,
+   "speaker": "Herman",
+   "ko": "고르기 녀석이 공군 기지를 점령했다!"
+  },
+  {
+   "index": 32,
+   "speaker": "Herman",
+   "ko": "적군이 공군 기지를 점령했다!"
+  },
+  {
+   "index": 33,
+   "speaker": "Herman",
+   "ko": "고르기가 공군 기지를 손에 넣었다!"
+  },
+  {
+   "index": 40,
+   "ko": "툰드라군 플레이어 시설 알림"
+  },
+  {
+   "index": 41,
+   "speaker": "Gorgi",
+   "ko": "공군 기지는 우리 툰드라군의 것이다!"
+  },
+  {
+   "index": 42,
+   "speaker": "Gorgi",
+   "ko": "공군 기지를 점령했다!"
+  },
+  {
+   "index": 43,
+   "speaker": "Gorgi",
+   "ko": "공군 기지를 차지했다!"
+  },
+  {
+   "index": 44,
+   "speaker": "Gorgi",
+   "ko": "공군 기지를 손에 넣었다!"
+  },
+  {
+   "index": 45,
+   "speaker": "Gorgi",
+   "ko": "프런티어 카우보이 놈들이\n공군 기지를 손에 넣은 모양이다!"
+  },
+  {
+   "index": 46,
+   "speaker": "Gorgi",
+   "ko": "허먼이 공군 기지를 점령했다!"
+  },
+  {
+   "index": 47,
+   "speaker": "Gorgi",
+   "ko": "적이 공군 기지를 점령했다!"
+  },
+  {
+   "index": 48,
+   "speaker": "Gorgi",
+   "ko": "적이 공군 기지를 차지했다!"
+  },
+  {
+   "index": 55,
+   "ko": "동일 시설 2개 점령 알림"
+  },
+  {
+   "index": 56,
+   "speaker": "Herman",
+   "ko": "공군 기지 두 곳을 점령했다!\n전투 헬기 보충 속도가 두 배가 됐다!"
+  },
+  {
+   "index": 57,
+   "speaker": "Gorgi",
+   "ko": "공군 기지 두 곳을 점령했다!\n전투 헬기 보충 속도가 두 배가 되었다!"
+  },
+  {
+   "index": 64,
+   "ko": "연장전"
+  },
+  {
+   "index": 65,
+   "speaker": "Herman",
+   "ko": "아니, 동점이라니!\n100점을 먼저 얻는 쪽이 이긴다!"
+  },
+  {
+   "index": 66,
+   "speaker": "Gorgi",
+   "ko": "동점인가!\n100점을 먼저 얻는 쪽이 이긴다!"
+  },
+  {
+   "index": 73,
+   "ko": "종료 영상"
+  },
+  {
+   "index": 74,
+   "speaker": "Herman",
+   "ko": "이겼다~! 봤나, 고르기!\n여긴 프런티어군 구역이다!"
+  },
+  {
+   "index": 75,
+   "speaker": "Herman",
+   "ko": "져 버렸다~! 왜지!?"
+  },
+  {
+   "index": 77,
+   "speaker": "Gorgi",
+   "ko": "우리 툰드라군의 승리다!\n뭐, 당연한 결과지만."
+  },
+  {
+   "index": 78,
+   "speaker": "Gorgi",
+   "ko": "패배라고…!?\n한 번 더다! 다시 싸워라!"
+  },
+  {
+   "index": 86,
+   "ko": "남은 시간"
+  },
+  {
+   "index": 87,
+   "speaker": "Herman",
+   "ko": "앞으로 1분이다, 고르기를 쓰러뜨려라!"
+  },
+  {
+   "index": 88,
+   "speaker": "Gorgi",
+   "ko": "1분 남았다! 가라! 가란 말이다!"
+  }
+ ]
+}

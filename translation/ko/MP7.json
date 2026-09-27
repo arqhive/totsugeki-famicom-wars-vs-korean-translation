@@ -1,0 +1,228 @@
+{
+ "file": "MP7Japanese.str",
+ "scene": "MP7",
+ "entries": [
+  {
+   "index": 0,
+   "ko": "도입 영상"
+  },
+  {
+   "index": 1,
+   "speaker": "GhostGorgi",
+   "ko": "여기는 북부 툰드라 깊숙한 「대제의 계곡」이다…\n공군 기지에서 전투 헬기를 보충하겠다!"
+  },
+  {
+   "index": 2,
+   "speaker": "Ubel",
+   "ko": "여기 북부 툰드라의 「대제의 계곡」이다!\n공군 기지에서 전투 헬기 보충된다!"
+  },
+  {
+   "index": 3,
+   "speaker": "GhostGorgi",
+   "ko": "공장을 점령하면 그레이트 탱크와\n대공 전차를 얻을 수 있다!\n은색 별을 찾거라!"
+  },
+  {
+   "index": 4,
+   "speaker": "Ubel",
+   "ko": "은색 별 보이나?\n저 공장 점령하면 그레이트 탱크와\n대공 전차 받는다!"
+  },
+  {
+   "index": 5,
+   "speaker": "GhostGorgi",
+   "ko": "이들이 우리의 적, 엑실바니아군이다.\n이 멍청한 놈들을 쓸어버려라!"
+  },
+  {
+   "index": 6,
+   "speaker": "Ubel",
+   "ko": "여기 적 있다…\n당장 놈들 쓰러뜨린다!"
+  },
+  {
+   "index": 7,
+   "speaker": "GhostGorgi",
+   "ko": "병영에서 보병과 바주카병이 보충된다!"
+  },
+  {
+   "index": 8,
+   "speaker": "Ubel",
+   "ko": "병영에서 보병과 바주카병 받는다!"
+  },
+  {
+   "index": 13,
+   "ko": "툰드라군 목표"
+  },
+  {
+   "index": 14,
+   "ko": "가능한 한 많은 적을 쓰러뜨려라"
+  },
+  {
+   "index": 15,
+   "ko": "시설을 점령하라"
+  },
+  {
+   "index": 16,
+   "ko": "엑실바니아군 목표"
+  },
+  {
+   "index": 17,
+   "ko": "가능한 한 많은 적을 쓰러뜨려라"
+  },
+  {
+   "index": 18,
+   "ko": "시설을 점령하라"
+  },
+  {
+   "index": 25,
+   "ko": "툰드라군 플레이어 시설 알림"
+  },
+  {
+   "index": 26,
+   "speaker": "GhostGorgi",
+   "ko": "우리 툰드라군이 공장을 손에 넣었다!"
+  },
+  {
+   "index": 27,
+   "speaker": "GhostGorgi",
+   "ko": "공장을 점령했다!"
+  },
+  {
+   "index": 28,
+   "speaker": "GhostGorgi",
+   "ko": "공장을 손에 넣었다!"
+  },
+  {
+   "index": 29,
+   "speaker": "GhostGorgi",
+   "ko": "우리 군이 공장을 점령했다!"
+  },
+  {
+   "index": 30,
+   "speaker": "GhostGorgi",
+   "ko": "엑실바니아 놈들이 공장을 점령했구나!"
+  },
+  {
+   "index": 31,
+   "speaker": "GhostGorgi",
+   "ko": "우벨이 공장을 점령한 모양이다!"
+  },
+  {
+   "index": 32,
+   "speaker": "GhostGorgi",
+   "ko": "적이 공장을 점령한 모양이다!"
+  },
+  {
+   "index": 33,
+   "speaker": "GhostGorgi",
+   "ko": "우벨이 공장을 손에 넣었다!"
+  },
+  {
+   "index": 40,
+   "ko": "엑실바니아군 플레이어 시설 알림"
+  },
+  {
+   "index": 41,
+   "speaker": "Ubel",
+   "ko": "공장은 엑실바니아 것이다!"
+  },
+  {
+   "index": 42,
+   "speaker": "Ubel",
+   "ko": "공장 점령!"
+  },
+  {
+   "index": 43,
+   "speaker": "Ubel",
+   "ko": "공장 차지했다!"
+  },
+  {
+   "index": 44,
+   "speaker": "Ubel",
+   "ko": "공장 차지했다!"
+  },
+  {
+   "index": 45,
+   "speaker": "Ubel",
+   "ko": "유령 고르기가 공장 점령했다!"
+  },
+  {
+   "index": 46,
+   "speaker": "Ubel",
+   "ko": "툰드라군이 공장 점령했다!"
+  },
+  {
+   "index": 47,
+   "speaker": "Ubel",
+   "ko": "빨간 놈들이 공장 점령했다!"
+  },
+  {
+   "index": 48,
+   "speaker": "Ubel",
+   "ko": "적이 공장 점령했다!"
+  },
+  {
+   "index": 55,
+   "ko": "동일 시설 2개 점령 알림"
+  },
+  {
+   "index": 56,
+   "speaker": "GhostGorgi",
+   "ko": "공장 두 곳을 점령했다!\n두 배 속도로 유닛이 보충된다!"
+  },
+  {
+   "index": 57,
+   "speaker": "Ubel",
+   "ko": "공장 두 개 점령했다!\n유닛 두 배 속도로 보충된다!"
+  },
+  {
+   "index": 64,
+   "ko": "연장전"
+  },
+  {
+   "index": 65,
+   "speaker": "GhostGorgi",
+   "ko": "동점이다!\n100점을 먼저 얻는 쪽이 이긴다!"
+  },
+  {
+   "index": 66,
+   "speaker": "Ubel",
+   "ko": "동점이다~!\n먼저 100점 얻는 쪽이 이긴다!"
+  },
+  {
+   "index": 73,
+   "ko": "종료 영상"
+  },
+  {
+   "index": 74,
+   "speaker": "GhostGorgi",
+   "ko": "어떠냐, 우벨? 똑똑히 봤느냐!"
+  },
+  {
+   "index": 75,
+   "speaker": "GhostGorgi",
+   "ko": "패배다!\n저 멍청이한테 또 당했구나…"
+  },
+  {
+   "index": 77,
+   "speaker": "Ubel",
+   "ko": "우벨이 이겼다~!\n또 엑실바니아가 이겼다!"
+  },
+  {
+   "index": 78,
+   "speaker": "Ubel",
+   "ko": "우벨이 졌다~!\n블라드 님한테 혼난다~!"
+  },
+  {
+   "index": 85,
+   "ko": "남은 시간"
+  },
+  {
+   "index": 86,
+   "speaker": "GhostGorgi",
+   "ko": "1분 남았다!"
+  },
+  {
+   "index": 87,
+   "speaker": "Ubel",
+   "ko": "앞으로 1분! 서두른다!"
+  }
+ ]
+}
