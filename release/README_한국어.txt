@@ -1,30 +1,25 @@
-돌격!! 패미컴 워즈 VS 한글패치 v0.1 (Wii / 일본판 기준)
+돌격!! 패미컴 워즈 VS 한글패치 v0.1.1 (Wii / 일본판 기준)
 ============================================================
 
 ■ 준비물
-  - 일본판 ISO   Totsugeki!! Famicom Wars VS (Japan).iso
-      CRC32 4C124B4F / MD5 67dc3eb745ce470f3a452caa6679b161
-      (RVZ·WBFS 등으로 갖고 계시면 Dolphin으로 ISO 변환 후 사용)
-  - 패치 파일     TotsugekiFamicomWarsVS_KO_v0.1.xdelta
-  - 패치 도구     xdelta3 또는 Delta Patcher 같은 GUI 도구
+  - 일본판 디스크 이미지 (게임 ID RBWJ01)
+      ISO, WBFS, WBFS에서 변환한 ISO 모두 됩니다.
+      덤프나 변환 방법에 따라 MD5가 달라도 게임 파일만 같으면 적용됩니다.
+      RVZ는 Dolphin에서 ISO로 변환한 뒤 사용하세요.
+  - Windows 10 이상 (따로 설치할 프로그램은 없습니다)
+  - 빈 공간 약 10GB (풀어 둔 파일 약 5GB + 결과 이미지)
 
 ■ 적용 방법
-  1) Delta Patcher (GUI)
-     - Original file: 일본판 ISO
-     - XDelta patch:  TotsugekiFamicomWarsVS_KO_v0.1.xdelta
-     - Apply patch 클릭
-
-  2) xdelta3 (명령줄)
-     xdelta3 -d -s "Totsugeki!! Famicom Wars VS (Japan).iso" TotsugekiFamicomWarsVS_KO_v0.1.xdelta "Totsugeki!! Famicom Wars VS (Korean).iso"
+  1) 압축을 풉니다.
+  2) 원본 이미지를 "패치하기.bat" 위에 끌어다 놓습니다.
+     (또는 원본 이미지를 이 폴더에 넣고 "패치하기.bat"을 더블클릭)
+  3) 1분 정도 기다리면 원본과 같은 폴더에 결과 파일이 생깁니다.
+       Totsugeki!! Famicom Wars VS (Korean) [RBWJ01].iso
+     원본이 WBFS면 결과도 WBFS로 만듭니다.
 
   ※ 북미판(Battalion Wars 2)·유럽판에는 적용할 수 없습니다.
-
-■ 결과 파일 확인 (여기와 다르면 원본 ISO가 다른 것입니다)
-  CRC32 8CB91FE6
-  MD5   c08176901c677d3000d8963d967c5521
-  SHA1  693384046f15084f901f22f9c25abacc3d0e70c7
-  SHA256 7ec6fb745a392ff2ba81550ff6c5bb7b112a1b2eab503e6ac1aea16da1a07e81
-  크기  4,699,979,776 바이트
+  ※ 이미 패치한 이미지에는 다시 적용할 수 없습니다.
+  ※ 결과 파일의 MD5는 원본에 따라 달라질 수 있습니다. 게임 내용은 같습니다.
 
 ■ 한글화 범위
   - 대사: 캠페인 미션 20개와 대전 맵의 무전 대사·목표, 스토리 영상 자막 12편
@@ -39,6 +34,10 @@
   - 일부 대사가 상자 테두리를 조금 벗어납니다. 가독성을 우선했습니다.
   - 승리·패배 연출 글자(VICTORY, DEFEAT)는 원본부터 영문이라 그대로 두었습니다.
   - 이름 입력 화면의 글자판은 원본대로 가나입니다.
+
+■ 동봉 도구
+  - wit (Wiimms ISO Tools, GPL-2.0, https://wit.wiimm.de/) — bin/wit-gpl-2.0.txt
+  - xdelta3 (Apache-2.0, https://github.com/jmacd/xdelta)
 
 ■ 기타
   비공식 팬 번역이며 Nintendo와 관련이 없습니다.
