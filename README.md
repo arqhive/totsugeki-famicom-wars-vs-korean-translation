@@ -3,13 +3,13 @@
 *Totsugeki!! Famicom Wars VS* (Wii, 일본판 `RBWJ01`) 비공식 한국어 팬 패치입니다.
 대사는 일본어판 원문을 기준으로 번역했습니다.
 
-**제작: arqhive** · **최신 버전: [v0.1.2](../../releases/tag/v0.1.2)**
+**제작: arqhive** · **최신 버전: [v0.1.3](../../releases/tag/v0.1.3)**
 
 - 대사 전체를 한글화했습니다(캠페인 미션 20개와 대전 맵의 무전 대사·목표, 스토리 영상 자막 12편).
 - 메뉴 전체를 한글화했습니다(메인 메뉴, 설정, 저장 메시지, 유닛 도감, 설정 자료, 크레딧).
 - 타이틀 로고, 뒤로 버튼, 리모컨 스트랩 경고 화면, Wii 메뉴 채널 배너, 세이브 데이터 로고를 한글화했습니다.
-- Wii 메뉴 채널 이름과 세이브 데이터 제목·설명을 한글화했습니다.
-- 장면마다 쓰인 한글만 모아 게임 폰트를 새로 만들었습니다. 1편 한글 패치와 같은 흰 글씨·검은 테두리·그림자 모양입니다.
+- Wii 메뉴 채널 이름과 세이브 데이터 제목·설명, HOME 버튼 메뉴 글씨를 한글화했습니다.
+- 장면마다 쓰인 한글만 모아 게임 폰트를 새로 만들었습니다(G마켓 산스, 흰 글씨·검은 테두리·그림자).
 - **파일 단위 패처라 덤프·변환 형태가 달라도 적용되고, 패치 크기는 약 7MB입니다.**
 
 > 이 저장소에는 **게임 데이터(롬·디스크 이미지, 추출한 원문 대사, 그래픽, 스크린샷)가 들어 있지 않습니다.**
@@ -38,7 +38,7 @@
 
 ### 적용 방법
 
-1. [배포 페이지](../../releases/latest)에서 `RBWJ_KPatch_v0.1.2.zip`을 받아 압축을 풉니다.
+1. [배포 페이지](../../releases/latest)에서 `RBWJ_KPatch_v0.1.3.zip`을 받아 압축을 풉니다.
 2. 원본 이미지(ISO 또는 WBFS)를 `패치하기.bat` 위에 끌어다 놓습니다.
    - 원본을 `패치하기.bat`과 같은 폴더에 넣고 더블클릭해도 됩니다.
    - 폴더에 이미지가 여러 개 있으면 경로를 물어봅니다. 파일을 창에 끌어다 놓고 Enter를 누르세요.
@@ -90,7 +90,7 @@ powershell -ExecutionPolicy Bypass -File patch.ps1 "원본.iso" "결과.wbfs"
 
 - Python 3.11 이상. `pip install -r requirements.txt`로 numpy, Pillow를 설치합니다.
 - 일본판 ISO. 저장소 루트나 `iso/`에 `Totsugeki!! Famicom Wars VS (Japan) [RBWJ01].iso`로 두거나 환경 변수 `BW2_JP_ISO`로 지정합니다.
-- 맑은 고딕(`C:/Windows/Fonts/malgun.ttf`). 한글 글자를 그리는 데 씁니다.
+- G마켓 산스 Medium(`GmarketSansMedium.otf`). 한글 글자를 그리는 데 씁니다. `tools/fonts/`에 두거나 PC에 설치합니다(글꼴 파일은 저장소에 넣지 않음).
 - [Dolphin](https://dolphin-emu.org/)의 `DolphinTool`. 원본 추출과 결과 검증에 씁니다. 바탕화면의 `Dolphin-x64` 폴더에 있거나 환경 변수 `DOLPHIN_TOOL`로 지정합니다.
 - [wit](https://wit.wiimm.de/)(Wiimms ISO Tools). 원본 배치를 유지한 ISO를 만들 때 씁니다. `tools/bin/wit-v3.05a-r8638-cygwin64/`에 두거나 PATH, 환경 변수 `WIT`로 지정합니다.
 - xdelta3 3.1.0. 배포용 패처를 만들 때만 필요하며, `tools/bin/xdelta3.exe`나 PATH, 환경 변수 `XDELTA3`로 둡니다.
@@ -101,14 +101,14 @@ powershell -ExecutionPolicy Bypass -File patch.ps1 "원본.iso" "결과.wbfs"
 # 한글 ISO 만들기 (work/TotsugekiFamicomWarsVS_KO.iso)
 python tools/build.py
 
-# 배포용 패처: 바뀐 파일별 차분 + 패처 스크립트 + wit·xdelta3 → release/RBWJ_KPatch_v0.1.2.zip
-python tools/make_patcher.py 0.1.2
+# 배포용 패처: 바뀐 파일별 차분 + 패처 스크립트 + wit·xdelta3 → release/RBWJ_KPatch_v0.1.3.zip
+python tools/make_patcher.py 0.1.3
 
 # (v0.1 방식) ISO 통째 xdelta. 특정 원본 ISO에만 맞아 배포에는 쓰지 않음
 python tools/make_patch.py 0.1
 ```
 
-처음 실행하면 일본판 ISO를 `work/jp`에 추출합니다. 문자열 71개, 장면 폰트 58벌, 이미지 13장(텍스처 34곳과 세이브 로고, 채널 배너), `main.dol` 패치를 만든 뒤 원본 배치를 유지한 ISO를 조립하고, 결과 ISO의 파일 7,279개를 모두 원본·빌드 결과와 비교해 검증합니다.
+처음 실행하면 일본판 ISO를 `work/jp`에 추출합니다. 문자열 71개, 장면 폰트 58벌, 이미지 13장(텍스처 34곳과 세이브 로고, 채널 배너), HOME 버튼 메뉴 글씨 13종, `main.dol` 패치를 만든 뒤 원본 배치를 유지한 ISO를 조립하고, 결과 ISO의 파일 7,279개를 모두 원본·빌드 결과와 비교해 검증합니다.
 Windows Git Bash에서는 `PYTHONIOENCODING=utf-8`을 붙이세요.
 
 ### 번역 수정
