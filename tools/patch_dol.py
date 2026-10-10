@@ -31,6 +31,12 @@ PATCH = {  # 주소: (원래 명령, 새 명령)
     0x8031c49c: (0x7c030378, 0x60000000),  # mr r3,r0         → nop
 }
 
+# 세이브 데이터 배너(banner.bin) 제목·설명: UTF-16BE, 칸마다 0x40바이트(32자, 0 종료). 게임이 세이브를 새로 만들 때 쓴다.
+SAVE_TEXT = {  # DOL 파일 위치: (원문, 번역)
+    0x492AE0: ('突撃!!ファミコンウォーズＶＳ', '돌격!! 패미컴 워즈 VS'),
+    0x492B20: ('今度は、Wiiで突撃ぃっ!!', '이번엔 Wii로 돌격이닷!!'),
+}
+
 
 def a2f(d, a):
     offs = struct.unpack_from('>18I', d, 0); addrs = struct.unpack_from('>18I', d, 0x48); sizes = struct.unpack_from('>18I', d, 0x90)
@@ -50,9 +56,13 @@ def main():
         f = a2f(d, a)
         assert struct.unpack_from('>I', d, f)[0] == old, hex(a)
         struct.pack_into('>I', d, f, new)
+    for o, (jp, ko) in SAVE_TEXT.items():
+        assert bytes(d[o:o + 0x40]) == jp.encode('utf-16-be').ljust(0x40, b'\0'), hex(o)
+        raw = ko.encode('utf-16-be'); assert len(raw) < 0x40, ko
+        d[o:o + 0x40] = raw.ljust(0x40, b'\0')
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     open(OUT, 'wb').write(bytes(d))
-    print(f'  main.dol 명령 {len(patch)}곳 패치' + (' (자간 +2)' if SPACING_PATCH else '') + (' (행간 +3)' if LINE_PATCH else ''))
+    print(f'  main.dol 명령 {len(patch)}곳 패치, 세이브 제목·설명 {len(SAVE_TEXT)}칸' + (' (자간 +2)' if SPACING_PATCH else '') + (' (행간 +3)' if LINE_PATCH else ''))
 
 
 if __name__ == '__main__':

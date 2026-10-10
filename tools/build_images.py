@@ -32,6 +32,9 @@ JOBS += [
 ]
 
 
+CHANNEL_NAME = '돌격!! 패미컴 워즈 VS'  # Wii 메뉴 채널 이름(원문 突撃!!ファミコンウォーズＶＳ)
+
+
 def img(n):
     return Image.open(f'{IMG}/{n}.png').convert('RGBA')
 
@@ -59,6 +62,7 @@ def main():
     b = open(f'{SRC}/opening.bnr', 'rb').read()
     nb = bnrpack.patch_bnr(b, {'arc/timg/BWii_logo.tpl': img('11_채널배너_로고')},
                            {'arc/timg/BWii_logo2.tpl': img('12_채널아이콘_로고')})
+    nb = bnrpack.set_names(nb, {0: CHANNEL_NAME, 9: CHANNEL_NAME})  # 일본어 칸과 빈 한국어 칸
     open(f'{OUT}/opening.bnr', 'wb').write(nb)
     print(f'  이미지 {len(set(j[2] for j in JOBS)) + 3}장 → 텍스처 {len(JOBS)}곳, 세이브 로고, 채널 배너·아이콘')
 

@@ -120,6 +120,21 @@ def rebuild_outer(u8, newdata):
     return bytes(head + body)
 
 
+def set_names(bnr, names):
+    """IMET 채널 이름 칸(0x5C부터 10개 언어 × 0x54바이트 UTF-16BE) 교체 후 헤더 MD5(0~0x600, 해시 칸 0) 갱신.
+    names: {칸 번호: 문자열}  (0 일본어, 1 영어, … 9 한국어)"""
+    b = bytearray(bnr)
+    assert b[0x40:0x44] == b'IMET'
+    for slot, s in names.items():
+        raw = s.encode('utf-16-be')
+        assert len(raw) < 0x54, (slot, s)
+        o = 0x5C + slot * 0x54
+        b[o:o + 0x54] = raw.ljust(0x54, b'\0')
+    b[0x5F0:0x600] = bytes(16)
+    b[0x5F0:0x600] = hashlib.md5(bytes(b[:0x600])).digest()
+    return bytes(b)
+
+
 def patch_bnr(bnr, banner_repl, icon_repl):
     i = bnr.find(b'\x55\xaa\x38\x2d')
     u8 = bnr[i:]
