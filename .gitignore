@@ -17,3 +17,6 @@ tools/bin/
 
 __pycache__/
 *.pyc
+
+# 글꼴 파일(사용자 PC에 설치된 것을 복사해 씀, 배포 라이선스 확인 전 커밋하지 않음)
+tools/fonts/

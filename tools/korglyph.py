@@ -1,12 +1,18 @@
 """한글 글자 — 1편(돌격!! 패미컴 워즈 GC 한글 패치) 방식.
-맑은 고딕 17px를 4배 해상도에서 흰 채움 + 둥근 1px 테두리 + 아래로 2px 내린 그림자로 합성해 22x22 로 줄인다.
+글꼴: G마켓 산스 Medium(tools/fonts, 없으면 사용자 PC 설치본). v0.1.2까지는 맑은 고딕.
+17px를 4배 해상도에서 흰 채움 + 둥근 1px 테두리 + 아래로 2px 내린 그림자로 합성해 22x22 로 줄인다.
 2편 칸 규칙에 맞춰 글자마다 잉크 왼끝을 2열에 맞춰 0열을 비우고(테두리 1열), 글자 간격은 19px(1편 18 + 1)로 한다.
 팔레트(일본어 시트): 1·3 반투명 검정, 4 검정, 11 흰색, 15 회색."""
+import os
+
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
 SS = 4
-FONT = 'C:/Windows/Fonts/malgun.ttf'
+_HERE = os.path.dirname(os.path.abspath(__file__))
+FONT = next(p for p in (os.path.join(_HERE, 'fonts', 'GmarketSansMedium.otf'),
+                        os.path.expandvars(r'%LOCALAPPDATA%\Microsoft\Windows\Fonts\GmarketSansMedium.otf'),
+                        'C:/Windows/Fonts/GmarketSansMedium.otf') if os.path.exists(p))
 SIZE = 17
 OUT_R = 1.15      # 테두리 반지름(px)
 SHADOW_DY = 2     # 그림자 아래 이동(px)
