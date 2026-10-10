@@ -12,6 +12,7 @@ import sys
 import zipfile
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import build_home
 import build_images
 import build_text
 import patch_dol
@@ -52,6 +53,7 @@ def main():
         shutil.rmtree(paths.BUILD)
     print('[1] 문자열·장면 폰트'); build_text.main()
     print('[2] 이미지'); build_images.main()
+    print('[2b] HOME 메뉴 글씨'); build_home.main()
     print('[3] main.dol'); patch_dol.main()
 
     print('[4] 파일별 차분')
