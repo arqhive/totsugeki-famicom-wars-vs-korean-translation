@@ -2,7 +2,6 @@
 
   work/GPT/결과/<번호_이름>.png  →  asset: tools/assets/<이름>.png (바꾸기 전 파일은 work/GPT/이전_assets/ 에 보관)
                                    home : tools/assets/home/<텍스처>.png (흰 글씨·검정 바탕, I4 16단계)
-                                   video: tools/assets/video/<이름>.png
   비교 시트: work/GPT/비교/<번호_이름>.png
 대상·맞추는 방식은 tools/gpt_jobs.py 참고.
 사용: python tools/gpt_import.py              결과 폴더에 있는 것 전부

@@ -3,8 +3,7 @@
 kind
   asset : 이미 번역한 그림. 결과를 tools/assets/<asset> 에 넣으면 build_images.py 가 게임에 넣는다.
   home  : HOME 버튼 메뉴 글씨(homeBtn.arc 안 I4 텍스처, 흰 글씨=불투명). 결과는 tools/assets/home/<tex>.png
-          (게임에 넣는 단계는 아직 없음 — homeBtn.arc 재작성 필요)
-  video : 동영상 속 로고. 결과는 tools/assets/video/<이름>.png (THP 프레임 재작성 단계는 아직 없음)
+          → build_home.py 가 homeBtn.arc 두 벌에 넣는다
 fit
   ink   : 투명 배경 그림. GPT 그림의 불투명 덩어리를 원본 불투명 덩어리 상자에 비율 유지로 넣고 가운데 정렬
   frame : 불투명 그림. 그림 전체를 원본 크기로 줄인다
@@ -39,5 +38,4 @@ JOBS = [
     ('H11_음량', 'home', 'tx_optn_00', 'tx_optn_00.png', (112, 64), 'text', '음량'),
     ('H12_진동', 'home', 'tx_optn_10', 'tx_optn_10.png', (112, 64), 'text', '진동'),
     ('H13_연결', 'home', 'tx_optn_20', 'tx_optn_20.png', (112, 64), 'text', '연결'),
-    ('V01_영상로고', 'video', 'GPT/원본/V01_영상로고_원본_497x178.png', '영상로고.png', (497, 178), 'ink', '돌격!! / 패미컴 워즈 / VS'),
 ]
