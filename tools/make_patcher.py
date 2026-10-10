@@ -17,8 +17,8 @@ import build_text
 import patch_dol
 import paths
 
-VER = sys.argv[1] if len(sys.argv) > 1 else '0.1.1'
-NAME = f'TotsugekiFamicomWarsVS_KO_v{VER}'
+VER = sys.argv[1] if len(sys.argv) > 1 else '0.1.2'
+NAME = f'RBWJ_KPatch_v{VER}'  # 릴리즈 파일 이름 규칙: [게임 코드]_KPatch_[버전]
 OUT = paths.RELEASE / NAME
 PATCHER = paths.ROOT / 'patcher'
 WIT_BIN = paths.TOOLS / 'bin' / 'wit-v3.05a-r8638-cygwin64'
@@ -69,7 +69,8 @@ def main():
             n_gz += 1
         (tmp / 'a').write_bytes(a); (tmp / 'b').write_bytes(b)
         patch = f'{i:03d}.xdelta'
-        subprocess.run([paths.xdelta3(), '-e', '-f', '-9', '-S', 'djw', '-s', str(tmp / 'a'), str(tmp / 'b'),
+        # -A= : 헤더에 임시 파일 경로(PC 사용자 이름 포함)를 적지 않음
+        subprocess.run([paths.xdelta3(), '-e', '-f', '-9', '-S', 'djw', '-A=', '-s', str(tmp / 'a'), str(tmp / 'b'),
                         str(OUT / 'data' / patch)], check=True)
         # 모드, 차분 파일, 경로, 원본 MD5(디스크 속 파일 그대로), 결과 MD5(gz 는 푼 내용)
         lines.append('\t'.join((mode, patch, rel, md5(old.read_bytes()), md5(b))))

@@ -10,6 +10,7 @@ work/
 release/*.xdelta
 release/*.zip
 release/TotsugekiFamicomWarsVS_KO_v*/
+release/*_KPatch_v*/
 
 # 외부 실행 파일(wit·xdelta3) — README의 요구 사항 참고
 tools/bin/
