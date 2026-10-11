@@ -9,6 +9,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import build_home
+import build_video
 import build_images
 import build_text
 import inplace
@@ -50,6 +51,7 @@ def main(out_iso=DEFAULT_ISO):
     print('[1] 문자열·장면 폰트'); build_text.main()
     print('[2] 이미지'); build_images.main()
     print('[2b] HOME 메뉴 글씨'); build_home.main()
+    print('[2c] 시작 로고 영상'); build_video.main()
     print('[3] main.dol'); patch_dol.main()
     print('[4] ISO(원본 배치 유지)'); inplace.main(str(out_iso))
     print('[5] 검증'); verify(out_iso)
