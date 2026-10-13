@@ -3,7 +3,7 @@
 *Totsugeki!! Famicom Wars VS* (Wii, 일본판 `RBWJ01`) 비공식 한국어 팬 패치입니다.
 대사는 일본어판 원문을 기준으로 번역했습니다.
 
-**제작: arqhive** · **최신 버전: [v0.3.1](../../releases/tag/v0.3.1)**
+**제작: arqhive** · **최신 버전: [v0.4](../../releases/tag/v0.4)**
 
 - 대사 전체를 한글화했습니다(캠페인 미션 20개와 대전 맵의 무전 대사·목표, 스토리 영상 자막 12편).
 - 메뉴 전체를 한글화했습니다(메인 메뉴, 설정, 저장 메시지, 유닛 도감, 설정 자료, 크레딧).
@@ -39,7 +39,7 @@
 
 ### 적용 방법
 
-1. [배포 페이지](../../releases/latest)에서 `RBWJ_KPatch_v0.3.1.zip`을 받아 압축을 풉니다.
+1. [배포 페이지](../../releases/latest)에서 `RBWJ_KPatch_v0.4.zip`을 받아 압축을 풉니다.
 2. 원본 이미지(ISO 또는 WBFS)를 `패치하기.bat` 위에 끌어다 놓습니다.
    - 원본을 `패치하기.bat`과 같은 폴더에 넣고 더블클릭해도 됩니다.
    - 폴더에 이미지가 여러 개 있으면 경로를 물어봅니다. 파일을 창에 끌어다 놓고 Enter를 누르세요.
@@ -102,8 +102,8 @@ powershell -ExecutionPolicy Bypass -File patch.ps1 "원본.iso" "결과.wbfs"
 # 한글 ISO 만들기 (work/TotsugekiFamicomWarsVS_KO.iso)
 python tools/build.py
 
-# 배포용 패처: 바뀐 파일별 차분 + 패처 스크립트 + wit·xdelta3 → release/RBWJ_KPatch_v0.3.1.zip
-python tools/make_patcher.py 0.3.1
+# 배포용 패처: 바뀐 파일별 차분 + 패처 스크립트 + wit·xdelta3 → release/RBWJ_KPatch_v0.4.zip
+python tools/make_patcher.py 0.4
 
 # (v0.1 방식) ISO 통째 xdelta. 특정 원본 ISO에만 맞아 배포에는 쓰지 않음
 python tools/make_patch.py 0.1
