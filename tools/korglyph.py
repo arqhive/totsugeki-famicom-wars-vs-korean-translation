@@ -78,4 +78,7 @@ def render(ch):
     idx[fill >= 0.25] = 15
     idx[fill >= 0.45] = 11
     idx[0, :] = 0; idx[:, 0] = 0
+    if ord(ch) < 0x2E80:  # 한글·한자가 아닌 기호(·)는 잉크 오른끝 + 2px 만 띄운다(19px 고정이면 뒤가 빈칸처럼 벌어짐)
+        cols = np.where(idx.max(0) > 0)[0]
+        return idx, (min(ADV, int(cols.max()) + 3) if len(cols) else SPACE)
     return idx, ADV
