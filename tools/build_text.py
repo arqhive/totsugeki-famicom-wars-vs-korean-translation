@@ -92,7 +92,8 @@ def texts_for(sname, ko):
         if not e['text']:
             out.append(None)
         elif i in ko.get(sname, {}):
-            out.append(ko[sname][i])
+            # 반각 ~ 는 원본 글꼴의 영문 칸(작고 위에 붙은 그림)이라 일본어 물결표 〜 그림으로 바꿔 넣는다
+            out.append(ko[sname][i].replace('~', '〜'))
         else:
             out.append(jpdec.dec(font, e['text']))
     return s, out
